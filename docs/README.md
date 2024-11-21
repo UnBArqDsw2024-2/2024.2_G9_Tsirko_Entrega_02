@@ -161,6 +161,7 @@ Este repositório tem como objetivo documentar todos os tópicos da modelagem do
 
 ### Entrega 2:
 
+## Screenshots da Segunda Entrega
 
 ## Executando o projeto 
 
@@ -180,5 +181,9 @@ Para iniciar o site localmente, utilize o comando:
 docsify serve ./docs
 ```
 
-## License
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](../LICENSE) para mais detalhes.
+### 3. Host local do host
+
+Basta acessar o link [http://localhost:3000](http://localhost:3000).
+
+
+

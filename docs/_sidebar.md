@@ -1,7 +1,8 @@
 <!-- docs/_sidebar.md -->
 
-- [Home](/docs)
-- [Projetos](/docs/Projetos/Projetos.md)
+- [Home](README.md)
+- [Projetos](/Projeto/Projeto.md)
+- [Padrão de documentação](/Projeto/Padrao.md)
 
 - **Modelagem**
   - [2. Desenho de Software (Modelagem)](/docs/Modelagem/2.Modelagem.md)
@@ -10,3 +11,5 @@
     - [2.3. Modelagem UML Organizacional ou Casos de Uso](/docs/Modelagem/2.3.ModelagemOrganizacionalCasosDeUso.md)
     - [2.4. Participações - Modelagem](/docs/Modelagem/2.4.ParticipacoesModelagem.md)
     - [2.5. Iniciativas Extras - Modelagem](/docs/Modelagem/2.5.IniciativasExtras.md)
+- **Atas**
+  - 
