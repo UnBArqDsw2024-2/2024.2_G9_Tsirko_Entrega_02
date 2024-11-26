@@ -73,7 +73,7 @@ Além disso, a padronização permite que qualquer membro da equipe possa seguir
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> Exemplo de Imagem</p></font>
 
-![Exemplo de Imagem](https://via.placeholder.com/300)
+![Exemplo de Imagem](caminho/da/imagem.png)
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/autor">Nome do Autor</a>, 2024.</p></font> 
 </div>
