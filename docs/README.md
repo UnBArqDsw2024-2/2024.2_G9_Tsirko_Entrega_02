@@ -1,4 +1,3 @@
-
 # 🎪 Tsírko 🎪
 
 **Código da Disciplina**: FGA0208<br>
@@ -6,6 +5,7 @@
 **Entrega**: 02<br>
 
 ## Alunos
+
 <center>
     <table style="width: 100%;">
         <tr>
@@ -147,7 +147,8 @@
     </table>
 </center>
 
-## Sobre 
+## Sobre
+
 TSÍRKO é um projeto em desenvolvimento que visa oferecer serviços circenses e propor soluções para a decadência da arte circense. Esse problema tem se agravado nos últimos 50 anos, à medida que os avanços tecnológicos introduziram novas formas de entretenimento, como videogames e celulares.
 
 Este repositório tem como objetivo documentar todos os tópicos da modelagem do projeto, destinado à entrega 2 da disciplina de Arquitetura de Software.
@@ -155,15 +156,20 @@ Este repositório tem como objetivo documentar todos os tópicos da modelagem do
 ## Entregas
 
 ### Entrega 1:
-* [Artefatos Generalistas](/docs/Base/Artefatos-Generalistas/)
-* [BPMN da metodologia de desenvolvimento](/docs/Base/1.3.ModelagemBPMN.md)
-* [Design Sprint](/docs/Base/DesignSprint)
+
+- [Artefatos Generalistas](https://unbarqdsw2024-2.github.io/2024.2_G9_Projeto_Entrega_01/#/Base/Artefatos-Generalistas/1.2.ArtefatosGeneralistas)
+- [BPMN da metodologia de desenvolvimento](https://unbarqdsw2024-2.github.io/2024.2_G9_Projeto_Entrega_01/#/Base/1.3.ModelagemBPMN)
+- [Design Sprint](https://unbarqdsw2024-2.github.io/2024.2_G9_Projeto_Entrega_01/#/Base/DesignSprint/README)
 
 ### Entrega 2:
 
-## Screenshots da Segunda Entrega
+- [Modelagem UML Estática](./Modelagem/2.1.ModelagemEstatica.md)
+- [Modelagem UML Dinâmica](./Modelagem/2.2.ModelagemDinamica.md)
+- [Modelagem UML Organizacional](./Modelagem/2.3.ModelagemOrganizacionalCasosDeUso.md)
+- [Participações](./Modelagem/2.4.ParticipacoesModelagem.md)
+- [Iniciativas Extras](./Modelagem/2.5.IniciativasExtras.md)
 
-## Executando o projeto 
+## Executando o projeto
 
 ### 1. Instalando o docsify
 
@@ -184,6 +190,3 @@ docsify serve ./docs
 ### 3. Host local do host
 
 Basta acessar o link [http://localhost:3000](http://localhost:3000).
-
-
-
